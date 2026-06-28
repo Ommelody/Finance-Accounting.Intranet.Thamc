@@ -1,0 +1,23 @@
+{
+  "name": "Intranet ฝ่ายการเงินและบัญชี",
+  "short_name": "Finance Intranet",
+  "description": "ระบบสารสนเทศ ฝ่ายการเงินและบัญชี ศูนย์การแพทย์ธรรมศาสตร์",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F4F1EE",
+  "theme_color": "#FF6B0A",
+  "icons": [
+    {
+      "src": "assets/favicon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicon/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
